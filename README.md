@@ -5,3 +5,5 @@ These challenges are intended to proivde opportunities for individuals to learn 
 machine learning and data science. 
 
 This repository features some of my notebooks from these competitions.
+
+Kaggle Profile: https://www.kaggle.com/seanandrie
